@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Afifi</h1>
-<h3 align="center">A passionate frontend deveI believe in the development of software lover interested in blockchain technologyloper from India</h3>
+<h3 align="center">I believe in the development, of software lovers. I am interested in blockchain technology.</h3>
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" style="clear: right; float: center; margin-bottom: 1em; margin-center: 1em;"><img border="0" data-original-height="384" data-original-width="512" height="480" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="640" /></a></div><br /><p align="center"><br /> </p>
 
