@@ -27,7 +27,7 @@
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moafifi0&show_icons=true&locale=en&layout=compact" alt="moafifi0" /></p>
-<div/>
+</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moafifi0&show_icons=true&locale=en" alt="moafifi0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moafifi0&" alt="moafifi0" /></p>
