@@ -25,13 +25,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moafifi0&show_icons=true&locale=en&layout=compact" alt="moafifi0" /></p>
-</div>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moafifi0&show_icons=true&locale=en" alt="moafifi0" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moafifi0&" alt="moafifi0" /></p>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moafifi0&label=Profile%20views&color=0e75b6&style=flat" alt="moafifi0" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moafifi0" alt="moafifi0" /></a> </p>
